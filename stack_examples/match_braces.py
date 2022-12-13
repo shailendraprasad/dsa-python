@@ -1,4 +1,4 @@
-from DataStructure_Implementation.ArrayStack import ArrayStack
+from ds.arraystack import ArrayStack
 
 
 def match_braces(expression):

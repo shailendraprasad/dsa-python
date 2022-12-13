@@ -1,4 +1,4 @@
-from DataStructure_Implementation.ArrayStack import ArrayStack
+from ds.arraystack import ArrayStack
 
 
 def is_html_matched(raw):
