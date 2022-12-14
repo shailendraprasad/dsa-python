@@ -1,4 +1,5 @@
 class ArrayStack:
+    """Implementing Array as stack"""
     def __init__(self):
         self._data = []
 

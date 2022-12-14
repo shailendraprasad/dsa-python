@@ -1,4 +1,7 @@
 class ArrayQueue:
+    """
+    Implementing Array as Queue
+    """
     DEFAULT_CAPACITY = 10
 
     def __init__(self):
